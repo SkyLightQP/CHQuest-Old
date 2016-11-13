@@ -10,3 +10,6 @@
 
 # 경고
 unbind() 등에 실종된 코드가 있으므로 위 내용처럼 그대로 사용하지 마세요.
+
+# 해당 코드를 사용해서 만든 예
+http://cafe.naver.com/goldbigdragon/55685
